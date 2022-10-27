@@ -1,4 +1,4 @@
-- Olá, eu sou a Daila👋
+Olá, eu sou a Daila👋
 
 🔭 Cursando Técnico em Desenvolvimento de Sistemas.
 
