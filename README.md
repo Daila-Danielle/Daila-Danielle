@@ -1,6 +1,19 @@
 # Olá, me chamo Daila! 
 ### Bem vindo ao meu perfil GitHub 👋
-## Atualmente estou estudando:
+
+## Conhecimentos 
+✨ Python
+<br>
+✨ HTML5 | CSS3
+<br>
+✨ SQL
+<br>
+✨ Frameworks: Flask
+<br>
+✨ Utilização e desenvolvimento de APIs
+<br>
+
+## Atualmente estou estudando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
 
