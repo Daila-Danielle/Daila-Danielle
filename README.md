@@ -21,6 +21,6 @@
 </div>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/Daila-Danielle/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Daila-Danielle/Daila-Danielle/blob/output/github-contribution-grid-snake.svg)
           
           
