@@ -8,7 +8,7 @@
 <br>
 ✨ SQL
 <br>
-✨ Frameworks: Flask
+✨ Framework - Flask
 <br>
 ✨ Utilização e desenvolvimento de APIs
 <br>
