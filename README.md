@@ -2,13 +2,15 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ## Conhecimentos 
+✨ PHP
+<br>
 ✨ Python
 <br>
 ✨ HTML5 | CSS3
 <br>
 ✨ SQL
 <br>
-✨ Framework - Flask
+✨ Framework - Flask - Laravel
 <br>
 ✨ Utilização e desenvolvimento de APIs
 <br>
